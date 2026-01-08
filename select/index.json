@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "琉球愛歌",
+  "base_artist": "MONGOL800",
+  "createdAt": "2026-01-08T16:36:03.922893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "琉球愛歌",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/01_琉球愛歌_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ryuukyuu Aika [琉球愛歌]",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/02_Ryuukyuu_Aika_[琉球愛歌]_MONGOL800.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "琉球愛歌",
+      "artist": "MONGOL 800",
+      "has_synced": false,
+      "path": "select/pl_01_琉球愛歌_MONGOL_800.txt"
+    }
+  ]
+}
